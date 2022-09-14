@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="Frame_126" data-name="Frame 126" transform="translate(0 -0.104)">
+    <rect id="Frame_126-2" data-name="Frame 126" width="80" height="80" rx="10" transform="translate(0 0.104)" fill="rgba(60,153,239,0.3)"/>
+    <g id="Show" transform="translate(24 24.104)">
+      <rect id="Show-2" data-name="Show" width="32" height="32" fill="rgba(0,0,0,0)"/>
+      <g id="Iconly_Bold_Show" data-name="Iconly/Bold/Show" transform="translate(2.683 5.286)">
+        <g id="Show-3" data-name="Show" transform="translate(0)">
+          <path id="Vector" d="M13.351,0a12.369,12.369,0,0,1,7.659,2.732,18.919,18.919,0,0,1,5.614,7.561.972.972,0,0,1,0,.764c-2.787,6.447-7.75,10.305-13.273,10.305h-.013C7.828,21.361,2.866,17.5.078,11.056a.972.972,0,0,1,0-.764C2.866,3.845,7.828,0,13.338,0Zm0,5.5a5.172,5.172,0,1,0,5.2,5.178A5.193,5.193,0,0,0,13.351,5.5Zm0,1.939A3.23,3.23,0,1,1,10.1,10.678a3.38,3.38,0,0,1,.065-.634h.065A2.666,2.666,0,0,0,12.9,7.48,2.6,2.6,0,0,1,13.352,7.441Z" fill="#3c99ef"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
