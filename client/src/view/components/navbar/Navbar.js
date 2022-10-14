@@ -7,19 +7,19 @@ const Navbar = () => {
         <>
             <nav
                 className="
-    flex flex-wrap
-    items-center
-    justify-between
-    w-full
-    py-4
-    md:py-0
-    md:px-24
-    px-8
-    h-16
-    text-lg text-gray-700
-    bg-white
-    shadow
-"
+                flex flex-wrap
+                items-center
+                justify-between
+                w-full
+                py-4
+                md:py-0
+                md:px-24
+                px-8
+                h-16
+                text-lg text-gray-700
+                bg-white
+                shadow
+                "
             >
                     <Link className="flex gap-5 items-center" to="/">
                         <img className="w-8" src={Logo} alt="logo" />

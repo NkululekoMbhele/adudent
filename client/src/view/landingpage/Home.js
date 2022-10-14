@@ -1,9 +1,17 @@
 import React from 'react';
-
+import Navbar from "../components/navbar/Navbar";
+import YoutubeMain from "../youtube/YoutubeMain";
+// This will be changed 
 const Home = () => {
   return (
+
     <div>
-      <h1>Home</h1>
+
+
+        <div>
+            <YoutubeMain/>
+        </div>
+
     </div>
   );
 }

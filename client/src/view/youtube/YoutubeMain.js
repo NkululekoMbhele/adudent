@@ -13,15 +13,15 @@ const YoutubeMain = () => {
           <section className="min-h-screen w-screen relative" >
           <img style={{zIndex: "-5", position: "fixed", width: "30rem", height: "auto", top: "50%", left: "50%", transform: "translate(-50%, -50%)"}} src={BGLogo} alt="logo" />
         <div
-                className="
-        flex
-        flex-col
-        justify-center
-        items-center
-        mx-auto
-        w-full
-        rounded-lg
-        pt-8"
+            className="
+                flex
+                flex-col
+                justify-center
+                items-center
+                mx-auto
+                w-full
+                rounded-lg
+                pt-8"
             >
                 <h1 className="text-2xl font-medium text-blue-500">YOUTUBE ANALYTICS</h1>
                 <p>Search for channels and view their analytics</p>
@@ -30,17 +30,17 @@ const YoutubeMain = () => {
                           <form action="" className="w-full flex items-center justify-center ">
                           <div className="border rounded flex md:w-1/3 sm:w-2/3 w-11/12">
                             <div className="flex items-center justify-center pl-4 border-l">
-                                <svg className="h-4 text-gray-100" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16.32 14.9l5.39 5.4a1 1 0 0 1-1.42 1.4l-5.38-5.38a8 8 0 1 1 1.41-1.41zM10 16a6 6 0 1 0 0-12 6 6 0 0 0 0 12z" /></svg>
+                                <svg className="h-4 text-gray-500" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16.32 14.9l5.39 5.4a1 1 0 0 1-1.42 1.4l-5.38-5.38a8 8 0 1 1 1.41-1.41zM10 16a6 6 0 1 0 0-12 6 6 0 0 0 0 12z" /></svg>
                             </div>
                             <input type="text" className="px-4 py-2 border-none focus:outline-none " placeholder="Search" />
-                            <button className="ml-auto flex items-center bg-purp-100 text-white justify-center px-6 border-l">
+                            <button className="ml-auto flex items-center bg-violet-700 text-white justify-center px-6 border-l ">
                                 Search
                             </button>
                           </div>
                       </form>
                     </div>
                 </div>
-                  <div className="results rounded bg-white md:w-8/12 w-11/12 min-h-96 px-8 py-8 flex flex-col items-center shadow-md">
+                  <div className="results rounded bg-white border border-slate-100 md:w-8/12 w-11/12 min-h-96 px-8 py-8 flex flex-col items-center shadow-md">
                     <div className="profile w-full flex flex-col items-center">
                           <img className="border rounded-full w-24" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpoQ32SFkBJf5Ir-9zAxOR4HriO6oGKfLeTg&usqp=CAU" alt="thumb" />
                           <h1 className="pt-4 text-xl">Furr Hair</h1>
